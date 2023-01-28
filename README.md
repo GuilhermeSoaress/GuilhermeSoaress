@@ -6,7 +6,6 @@
 </div>
 
 
- ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSoaress&layout=compact&theme=omni)
 
   
 # Contatos

@@ -5,9 +5,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoaress&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
-  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSoaress&layout=compact&theme=omni)
-</div>
+
+ ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSoaress&layout=compact&theme=omni)
+
   
 # Contatos
   

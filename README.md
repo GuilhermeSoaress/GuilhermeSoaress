@@ -4,7 +4,7 @@
 
 ##
 
-- Estudande do 6º semestre de Engenharia de software na Universidade de Brasília.
+- Estudande de Engenharia de software na Universidade de Brasília.
 
 - Sempre aprendendo novas tecnologias e formas de resolver problemas de software.
 

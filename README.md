@@ -4,7 +4,7 @@
 
 ##
 
-- Estudande de Engenharia de software na Universidade de Brasília.
+- Estudante de Engenharia de software na Universidade de Brasília.
 
 - Sempre aprendendo novas tecnologias e formas de resolver problemas de software.
 

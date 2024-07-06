@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Guilherme!;Engenheiro+de+Software;Bem+vindo!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I+am+Guilherme;Software+Engineer;Welcome!;)](https://git.io/typing-svg)
 
 ##
 
-- Estudante de Engenharia de software na Universidade de Brasília.
+- Software engineer student at University of Brasilia
 
-- Sempre aprendendo novas tecnologias e formas de resolver problemas de software.
+- Always learning new technologies and ways to solve software problems
 
 ##
 
-### Contatos
+### Contact
 <div>
 <a href = "mailto:guilhermesoares278@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilherme-soares-061a2120a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   

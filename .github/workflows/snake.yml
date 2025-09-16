@@ -1,39 +1,26 @@
-# Nome da GitHub Action
 name: Generate Snake Animation
 
-# Gatilhos: quando a Action deve rodar
 on:
-  # Roda automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Permite que você rode a Action manualmente pela aba "Actions" no GitHub
   workflow_dispatch:
 
-# O trabalho que a Action vai executar
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Faz o checkout do seu repositório para que a Action possa acessá-lo
       - uses: actions/checkout@v3
 
-      # 2. Gera a animação da cobrinha
       - uses: Platane/snk@v3
         with:
-          # Usa o seu nome de usuário do GitHub automaticamente
           github_user_name: ${{ github.repository_owner }}
-          
-          # Define os arquivos de saída (um para tema claro, outro para escuro)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Empurra os arquivos gerados para um branch chamado "output"
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
-          # O GITHUB_TOKEN é um segredo automático, não precisa configurar
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Guilherme+Soares;Software+Engineering+Student;Welcome+to+my+Profile!;)](https://git.io/typing-svg)
 
 ## About Me
-
 I am a **Software Engineer** with a comprehensive background spanning from low-level systems programming in **Assembly** to the architecture of full-stack applications. My skills are sharpened through rigorous academic projects and consistent practice with competitive programming challenges, covering advanced **data structures**, **software testing**, **embedded systems**, and **database design**.
 
 All of my experience is demonstrated through the academic and personal projects documented here on GitHub. I thrive on architecting robust and efficient solutions for complex problems, bridging the gap between hardware and software.
@@ -35,20 +34,20 @@ A deep dive into relational databases, covering data modeling (ER), relational a
   <a href="https://www.linkedin.com/in/guilherme-soares-061a2120a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 <div align="center">
   <br>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoaress&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSoaress&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
----
+##
 
 <div align="center">
-  <br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGuilhermeSoaress&label=Profile%20Visitors&countColor=%237B68EE&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeSoaress&color=blueviolet" alt="Profile Views"/>
 </div>
 
----
 
 <br>
 

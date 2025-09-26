@@ -13,6 +13,9 @@ All of my experience is demonstrated through the academic and personal projects 
 
 A selection of my favorite academic projects, where I applied core computer science concepts.
 
+* **[Movie Dashboard](https://github.com/GuilhermeSoaress/Movie-Dashboard)**
+  A responsive movie discovery website built with React and TypeScript. Features robust state management with Redux Toolkit, a mobile-first UI using Tailwind CSS, and real-time data from the TMDB API.
+
 * **[Estruturas de Dados 1 (EDA 1)](https://github.com/GuilhermeSoaress/EDA-1-listas)**
   Foundational data structures and algorithms in C, including competitive programming style exercises covering lists, sorting, recursion, and pointers.
 

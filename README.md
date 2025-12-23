@@ -2,35 +2,48 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Guilherme+Soares;Software+Engineering+Student;Welcome+to+my+Profile!;)](https://git.io/typing-svg)
 
-## About Me
-I am a **Software Engineer** with a comprehensive background spanning from low-level systems programming in **Assembly** to the architecture of full-stack applications. My skills are sharpened through rigorous academic projects and consistent practice with competitive programming challenges, covering advanced **data structures**, **software testing**, **embedded systems**, and **database design**.
 
-All of my experience is demonstrated through the academic and personal projects documented here on GitHub. I thrive on architecting robust and efficient solutions for complex problems, bridging the gap between hardware and software.
+## 👨‍💻 About Me
 
----
+Hi there, I'm Guilherme Soares Rocha 👋
 
-## University Projects Portfolio
+Software Engineer graduated from the **University of Brasília (UnB)**. Currently working as a **Junior Software Engineer**, where I focus on the **.NET and Vue.js** ecosystem to build scalable full-stack applications. I have a proven track record of delivering high-impact solutions, such as refactoring front-end architectures to significantly reduce **AWS operational costs** while improving code maintainability.
 
-A selection of my favorite academic projects, where I applied core computer science concepts.
-
-* **[Movie Dashboard](https://github.com/GuilhermeSoaress/Movie-Dashboard)**
-  A responsive movie discovery website built with React and TypeScript. Features robust state management with Redux Toolkit, a mobile-first UI using Tailwind CSS, and real-time data from the TMDB API.
-
-* **[Estruturas de Dados 1 (EDA 1)](https://github.com/GuilhermeSoaress/EDA-1-listas)**
-  Foundational data structures and algorithms in C, including competitive programming style exercises covering lists, sorting, recursion, and pointers.
-
-* **[Sistemas de Banco de Dados 1](https://github.com/GuilhermeSoaress/Sistemas-de-banco-de-dados-1)**
-A deep dive into relational databases, covering data modeling (ER), relational algebra, and complex **SQL** queries (DDL, DML, DQL) using **MySQL**.
-
-* **[Fundamentos de Sistemas Embarcados (FSE)](https://github.com/GuilhermeSoaress/FSE)**
-  A collection of embedded systems projects using **FreeRTOS** on the **ESP32**, including an IoT device with **MQTT**, a multi-threaded elevator controller, and a parking lot system.
-
-* **[Fundamentos de Sistemas Operacionais (FSO)](https://github.com/GuilhermeSoaress/FSO)**
-  C/C++ implementations of core OS concepts like process schedulers (**FCFS, Round-Robin**), page replacement algorithms (**FIFO, LRU**), process lifecycle management, and a timed mini-shell.
+Beyond my professional work, I am passionate about core engineering and fundamental computer science. My background ranges from low-level systems in **C and Assembly** to modern **Generative AI** architectures like **RAG**. I thrive on solving complex problems with clean code, automated testing, and a mindset of continuous learning across any technology stack.
 
 ---
 
-## Contact
+## 🚀 Impact & Professional Projects
+*High-stakes projects involving government entities and modern AI solutions.*
+
+* **RAG Chatbot**: My Senior Capstone Project (TCC). A Retrieval-Augmented Generation system using **Python, LangChain, and Gemini API** for semantic search in document databases.
+    * [View Organization](https://github.com/TCC-RagBot)
+* **Apita Cidadão (Federal Police)**: A reporting platform for sports betting manipulation built with **Next.js, Fastify, and Docker**.
+    * [Frontend](https://github.com/eps-fcte-2025-2/plataforma-civica-frontend) | [Backend](https://github.com/eps-fcte-2025-2/plataforma-civica-backend)
+* **DNIT Road Safety Portal**: A geospatial data platform for accident analysis and risk calculation for the Federal Government.
+    * [Frontend](https://github.com/fga-eps-mds/2023.1-Dnit-Front) | [User service](https://github.com/fga-eps-mds/2023.1-Dnit-UsuarioService) | [School service](https://github.com/fga-eps-mds/2023.1-Dnit-EscolaService)
+* **Decidim (Open Source)**: Contributions to the Ruby on Rails foundation of the "Brasil Participativo" portal, focused on **UI/UX, accessibility, and responsiveness**.
+    * [View Repository](https://gitlab.com/lappis-unb/decidimbr/decidim-govbr)
+
+---
+
+## 🛠️ Engineering Fundamentals
+*Core computer science concepts applied during my formation at UnB.*
+
+* **[Parallel & Distributed Systems](https://github.com/GuilhermeSoaress/PSPD)**: Implementations of parallel algorithms and distributed communication using **gRPC and Kubernetes**.
+* **[Data Structures and algorithms](https://github.com/GuilhermeSoaress/EDA-1-listas)**: Advanced algorithms, sorting, and pointer manipulation implemented in **C**.
+* **[Database Systems](https://github.com/GuilhermeSoaress/Sistemas-de-banco-de-dados-1)**: Relational modeling (ER), complex **SQL** optimization, and database design using **MySQL/PostgreSQL**.
+* **[Operating Systems](https://github.com/GuilhermeSoaress/FSO)**: Process scheduling, memory management, and real-time systems using **FreeRTOS on ESP32**.
+
+---
+
+## 🧪 Personal Lab
+*Personal projects for exploring new technologies.*
+
+* **[Movie Dashboard](https://github.com/GuilhermeSoaress/Movie-Dashboard)**: Exploring **React, Redux Toolkit**, and mobile-first design with Tailwind CSS.
+---
+
+## Contact me!
 
 <div align="center">
   <a href="mailto:guilhermesoares278@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -53,7 +66,5 @@ A deep dive into relational databases, covering data modeling (ER), relational a
 
 
 <br>
-
-![Snake animation](https://github.com/GuilhermeSoaress/GuilhermeSoaress/blob/output/github-contribution-grid-snake.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>

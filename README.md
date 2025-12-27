@@ -41,6 +41,7 @@ Beyond my professional work, I am passionate about core engineering and fundamen
 *Personal projects for exploring new technologies.*
 
 * **[Movie Dashboard](https://github.com/GuilhermeSoaress/Movie-Dashboard)**: Exploring **React, Redux Toolkit**, and mobile-first design with Tailwind CSS.
+* **[SkyCast - Weather Forecast](https://github.com/GuilhermeSoaress/Weather-forecast)**: Applying Front-end concepts. Using React, Javascript with modern libraries.
 ---
 
 ## Contact me!

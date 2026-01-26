@@ -7,7 +7,7 @@
 
 Hi there, I'm Guilherme Soares Rocha 👋
 
-Software Engineer graduated from the **University of Brasília (UnB)**. Currently working as a **Junior Software Engineer**, where I focus on the **.NET and Vue.js** ecosystem to build scalable full-stack applications. I have a proven track record of delivering high-impact solutions, such as refactoring front-end architectures to significantly reduce **AWS operational costs** while improving code maintainability.
+Software Engineer graduated from the **University of Brasília (UnB)**. Currently working as a **Junior Software Engineer**, where I focus on the **FastAPI and React** ecosystem to build scalable full-stack applications. I have a proven track record of delivering high-impact solutions, such as refactoring front-end architectures to significantly reduce **AWS operational costs** while improving code maintainability.
 
 Beyond my professional work, I am passionate about core engineering and fundamental computer science. My background ranges from low-level systems in **C and Assembly** to modern **Generative AI** architectures like **RAG**. I thrive on solving complex problems with clean code, automated testing, and a mindset of continuous learning across any technology stack.
 

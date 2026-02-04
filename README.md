@@ -33,7 +33,7 @@ Beyond my professional work, I am passionate about core engineering and fundamen
 * **[Parallel & Distributed Systems](https://github.com/GuilhermeSoaress/PSPD)**: Implementations of parallel algorithms and distributed communication using **gRPC and Kubernetes**.
 * **[Data Structures and algorithms](https://github.com/GuilhermeSoaress/EDA-1-listas)**: Advanced algorithms, sorting, and pointer manipulation implemented in **C**.
 * **[Database Systems](https://github.com/GuilhermeSoaress/Sistemas-de-banco-de-dados-1)**: Relational modeling (ER), complex **SQL** optimization, and database design using **MySQL/PostgreSQL**.
-* **[Operating Systems](https://github.com/GuilhermeSoaress/FSO)**: Process scheduling, memory management, and real-time systems using **FreeRTOS on ESP32**.
+* **[Operating Systems](https://github.com/GuilhermeSoaress/FSO)**: C/C++ implementations of OS fundamentals, including CPU scheduling (FCFS, RR), memory management (Paging), and synchronization primitives.
 
 ---
 

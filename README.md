@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Guilherme+Soares;Software+Engineering+Student;Welcome+to+my+Profile!;)](https://git.io/typing-svg)
 
 
-## 👨‍💻 About Me
+## About Me
 
-Hi there, I'm Guilherme Soares Rocha 👋
+Hi there, I'm Guilherme Soares Rocha
 
 Software Engineer graduated from the **University of Brasília (UnB)**. Currently working as a **Junior Software Engineer**, where I focus on the **FastAPI and React** ecosystem to build scalable full-stack applications. I have a proven track record of delivering high-impact solutions, such as refactoring front-end architectures to significantly reduce **AWS operational costs** while improving code maintainability.
 
@@ -13,7 +13,7 @@ Beyond my professional work, I am passionate about core engineering and fundamen
 
 ---
 
-## 🚀 Impact & Professional Projects
+## Impact & Professional Projects
 *High-stakes projects involving government entities and modern AI solutions.*
 
 * **RAG Chatbot**: My Senior Capstone Project (TCC). A Retrieval-Augmented Generation system using **Python, LangChain, and Gemini API** for semantic search in document databases.
@@ -27,7 +27,7 @@ Beyond my professional work, I am passionate about core engineering and fundamen
 
 ---
 
-## 🛠️ Engineering Fundamentals
+## Engineering Fundamentals
 *Core computer science concepts applied during my formation at UnB.*
 
 * **[Parallel & Distributed Systems](https://github.com/GuilhermeSoaress/PSPD)**: Implementations of parallel algorithms and distributed communication using **gRPC and Kubernetes**.
@@ -37,7 +37,7 @@ Beyond my professional work, I am passionate about core engineering and fundamen
 
 ---
 
-## 🧪 Personal Lab
+## Personal Lab
 *Personal projects for exploring new technologies.*
 
 * **[Movie Dashboard](https://github.com/GuilhermeSoaress/Movie-Dashboard)**: Exploring **React, Redux Toolkit**, and mobile-first design with Tailwind CSS.
